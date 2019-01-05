@@ -1,4 +1,4 @@
-# Public Domain
+# Public Domain, 19
 ## English
 1. [ASV](../../blob/master/bibledata-en-asv.zip?raw=true), American Standard Version (Public Domain, [Source](https://www.biblegateway.com/versions/American-Standard-Version-ASV-Bible/))
 1. [DARBY](../../blob/master/bibledata-en-darby.zip?raw=true), Darby Translation (Public Domain, [Source](https://www.biblegateway.com/versions/Darby-Translation-Bible/))
@@ -29,7 +29,7 @@
 1. [RWV](../../blob/master/bibledata-to-rwv.zip?raw=true), Tongan Bible (Revised West Version) (Public Domain, [Source](https://bibles.org/versions/ton-TONRWV))
 ## Tiếng Việt (Vietnamese)
 1. [VIET](../../blob/master/bibledata-vi-viet.zip?raw=true), 1934 Vietnamese Bible (Public Domain, [Source](https://www.biblegateway.com/versions/1934-Vietnamese-Bible-VIET/))
-# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md)
+# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 18
 ## English
 1. [BRG](../../blob/master/bibledata-en-brg.zip?raw=true), BRG Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/BRG-Bible/))
 1. [LEB](../../blob/master/bibledata-en-leb.zip?raw=true), Lexham English Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Lexham-English-Bible-LEB/))
@@ -58,7 +58,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response
+# No Response, 146
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -276,7 +276,7 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md)
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 9
 ## English
 1. [CEB](../../blob/master/bibledata-en-ceb.zip?raw=true), Common English Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Common-English-Bible-CEB/))
 1. [MSG](../../blob/master/bibledata-en-msg.zip?raw=true), The Message ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Message-MSG-Bible/))
@@ -290,3 +290,8 @@
 1. [N78BM](../../blob/master/bibledata-nb-n78bm.zip?raw=true), The Bible in Norwegian 1978/85 bokmål ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nob-N78BM))
 ## Selee
 1. [SNWNT](../../blob/master/bibledata-snw-snwnt.zip?raw=true), Yaa Kanya Ninii Fɔle Sɛlɛɛ ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://bibles.org/versions/snw-SNWNT))
+# More Translations
+For more Translations, please find it on following sites, then give me the link:
+- https://www.biblegateway.com/versions/
+- https://bibles.org/versions/
+- https://ebible.org/Scriptures/
