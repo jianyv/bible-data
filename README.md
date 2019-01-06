@@ -29,12 +29,13 @@
 1. [RWV](../../blob/master/bibledata-to-rwv.zip?raw=true), Tongan Bible (Revised West Version) (Public Domain, [Source](https://bibles.org/versions/ton-TONRWV))
 ## Tiếng Việt (Vietnamese)
 1. [VIET](../../blob/master/bibledata-vi-viet.zip?raw=true), 1934 Vietnamese Bible (Public Domain, [Source](https://www.biblegateway.com/versions/1934-Vietnamese-Bible-VIET/))
-# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 18
+# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 19
 ## English
 1. [BRG](../../blob/master/bibledata-en-brg.zip?raw=true), BRG Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/BRG-Bible/))
 1. [LEB](../../blob/master/bibledata-en-leb.zip?raw=true), Lexham English Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Lexham-English-Bible-LEB/))
 1. [NET](../../blob/master/bibledata-en-net.zip?raw=true), New English Translation ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/New-English-Translation-NET-Bible/))
 1. [OJB](../../blob/master/bibledata-en-ojb.zip?raw=true), Orthodox Jewish Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/))
+1. [WYC](../../blob/master/bibledata-en-wyc.zip?raw=true), Wycliffe Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Wycliffe-Bible-WYC/))
 ## Κοινη (Greek)
 1. [SBLGNT](../../blob/master/bibledata-grc-sblgnt.zip?raw=true), SBL Greek New Testament ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/))
 ## മലയാളം (Malayalam)
@@ -58,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 146
+# No Response, 145
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -126,7 +127,6 @@
 1. [RSVCE](../../blob/master/bibledata-en-rsvce.zip?raw=true), Revised Standard Version Catholic Edition (No Response, [Source](https://www.biblegateway.com/versions/Revised-Standard-Version-Catholic-Edition-RSVCE-Bible/))
 1. [TLV](../../blob/master/bibledata-en-tlv.zip?raw=true), Tree of Life Version (No Response, [Source](https://www.biblegateway.com/versions/Tree-of-Life-Version-TLV-Bible))
 1. [VOICE](../../blob/master/bibledata-en-voice.zip?raw=true), The Voice (No Response, [Source](https://www.biblegateway.com/versions/The-Voice-Bible/))
-1. [WYC](../../blob/master/bibledata-en-wyc.zip?raw=true), Wycliffe Bible (No Response, [Source](https://www.biblegateway.com/versions/Wycliffe-Bible-WYC/))
 ## Español (Spanish)
 1. [BHTI](../../blob/master/bibledata-es-bhti.zip?raw=true), La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana) (No Response, [Source](http://bibles.org/versions/spa-BHTI))
 1. [DHH](../../blob/master/bibledata-es-dhh.zip?raw=true), Biblia Dios Habla Hoy (sin notas ni ayudas) (No Response, [Source](http://bibles.org/versions/spa-DHH))
