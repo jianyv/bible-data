@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 140
+# No Response, 139
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -115,7 +115,6 @@
 1. [NIV1984](../../blob/master/bibledata-en-niv1984.zip?raw=true), New International Version 1984 (Deprecated by NIV2011) (No Response, [Source](https://web.archive.org/web/20121011212533/www.biblegateway.com/versions/index.php?action=getVersionInfo&vid=102))
 1. [NIV2011](../../blob/master/bibledata-en-niv2011.zip?raw=true), New International Version 2011 (No Response, [Source](https://www.biblegateway.com/versions/New-International-Version-NIV-Bible/))
 1. [NIVUK](../../blob/master/bibledata-en-nivuk.zip?raw=true), New International Version - UK (No Response, [Source](https://www.biblegateway.com/versions/New-International-Version-UK-NIVUK-Bible/))
-1. [NLV](../../blob/master/bibledata-en-nlv.zip?raw=true), New Life Version (No Response, [Source](https://www.biblegateway.com/versions/New-Life-Version-NLV-Bible/))
 1. [NOG](../../blob/master/bibledata-en-nog.zip?raw=true), Names of God Bible (No Response, [Source](https://www.biblegateway.com/versions/Names-of-God-NOG-Bible/))
 1. [NRSV](../../blob/master/bibledata-en-nrsv.zip?raw=true), New Revised Standard Version (No Response, [Source](https://www.biblegateway.com/versions/New-Revised-Standard-Version-NRSV-Bible/))
 1. [NRSVA](../../blob/master/bibledata-en-nrsva.zip?raw=true), New Revised Standard Version, Anglicised (No Response, [Source](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Anglicised-NRSVA-Bible/))
@@ -270,7 +269,7 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 14
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 15
 ## English
 1. [CEB](../../blob/master/bibledata-en-ceb.zip?raw=true), Common English Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Common-English-Bible-CEB/))
 1. [ICB](../../blob/master/bibledata-en-icb.zip?raw=true), International Children’s Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/))
@@ -278,6 +277,7 @@
 1. [NCV](../../blob/master/bibledata-en-ncv.zip?raw=true), New Century Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/))
 1. [NKJV](../../blob/master/bibledata-en-nkjv.zip?raw=true), New King James Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-King-James-Version-NKJV-Bible/))
 1. [NLT](../../blob/master/bibledata-en-nlt.zip?raw=true), New Living Translation ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-Living-Translation-NLT-Bible/))
+1. [NLV](../../blob/master/bibledata-en-nlv.zip?raw=true), New Life Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-Life-Version-NLV-Bible/))
 1. [TLB](../../blob/master/bibledata-en-tlb.zip?raw=true), Living Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Living-Bible-TLB/))
 1. [TPT](../../blob/master/bibledata-en-tpt.zip?raw=true), The Passion Translation ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Passion-Translation-TPT-Bible/))
 1. [VOICE](../../blob/master/bibledata-en-voice.zip?raw=true), The Voice ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Voice-Bible/))
