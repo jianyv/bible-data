@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 138
+# No Response, 137
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -98,7 +98,6 @@
 1. [DLNT](../../blob/master/bibledata-en-dlnt.zip?raw=true), Disciples’ Literal New Testament (No Response, [Source](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/))
 1. [EHV](../../blob/master/bibledata-en-ehv.zip?raw=true), Evangelical Heritage Version (No Response, [Source](https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/))
 1. [ERV](../../blob/master/bibledata-en-erv.zip?raw=true), Easy-to-Read Version (No Response, [Source](https://www.biblegateway.com/versions/Easy-to-Read-Version-ERV-Bible/))
-1. [ESV](../../blob/master/bibledata-en-esv.zip?raw=true), English Standard Version (No Response, [Source](https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/))
 1. [EXB](../../blob/master/bibledata-en-exb.zip?raw=true), Expanded Bible (No Response, [Source](https://www.biblegateway.com/versions/Expanded-Bible-EXB/))
 1. [GNT](../../blob/master/bibledata-en-gnt.zip?raw=true), Good News Translation (No Response, [Source](https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/))
 1. [GNV](../../blob/master/bibledata-en-gnv.zip?raw=true), 1599 Geneva Bible (No Response, [Source](https://www.biblegateway.com/versions/1599-Geneva-Bible-GNV/))
@@ -268,9 +267,10 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 16
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 17
 ## English
 1. [CEB](../../blob/master/bibledata-en-ceb.zip?raw=true), Common English Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Common-English-Bible-CEB/))
+1. [ESV](../../blob/master/bibledata-en-esv.zip?raw=true), English Standard Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/))
 1. [ICB](../../blob/master/bibledata-en-icb.zip?raw=true), International Children’s Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/))
 1. [MSG](../../blob/master/bibledata-en-msg.zip?raw=true), The Message ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Message-MSG-Bible/))
 1. [NCV](../../blob/master/bibledata-en-ncv.zip?raw=true), New Century Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/))
