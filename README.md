@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 136
+# No Response, 135
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -175,8 +175,6 @@
 1. [BMDC](../../blob/master/bibledata-ms-bmdc.zip?raw=true), Alkitab Berita Baik (+Deuterokanonika) (No Response, [Source](http://bibles.org/versions/msa-TMVRD))
 ## नेपाली (Nepali)
 1. [ERVNE](../../blob/master/bibledata-ne-ervne.zip?raw=true), Nepali Bible: Easy-to-Read Version (No Response, [Source](https://www.biblegateway.com/versions/Nepali-Bible-Easy-to-Read-Version-ERV-NE/))
-## Owambo (Ndonga)
-1. [ONDB](../../blob/master/bibledata-ng-ondb.zip?raw=true), Ombiimbeli Ondjapuki (No Response, [Source](http://bibles.org/versions/ndo-ONDB))
 ## Nederlands (Dutch)
 1. [BB](../../blob/master/bibledata-nl-bb.zip?raw=true), BasisBijbel (No Response, [Source](https://www.biblegateway.com/versions/BasisBijbel-BB/))
 1. [HTB](../../blob/master/bibledata-nl-htb.zip?raw=true), Het Boek (No Response, [Source](https://www.biblegateway.com/versions/Het-Boek-HTB/))
@@ -265,7 +263,7 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 18
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 19
 ## English
 1. [CEB](../../blob/master/bibledata-en-ceb.zip?raw=true), Common English Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Common-English-Bible-CEB/))
 1. [ESV](../../blob/master/bibledata-en-esv.zip?raw=true), English Standard Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/))
@@ -287,6 +285,8 @@
 ## Norsk Bokmål (Norwegian Bokmål)
 1. [N11BM](../../blob/master/bibledata-nb-n11bm.zip?raw=true), Bibelen 2011 bokmål ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nob-N11BM))
 1. [N78BM](../../blob/master/bibledata-nb-n78bm.zip?raw=true), The Bible in Norwegian 1978/85 bokmål ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nob-N78BM))
+## Owambo (Ndonga)
+1. [ONDB](../../blob/master/bibledata-ng-ondb.zip?raw=true), Ombiimbeli Ondjapuki ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/ndo-ONDB))
 ## Nederlands (Dutch)
 1. [NBG51](../../blob/master/bibledata-nl-nbg51.zip?raw=true), NBG-vertaling 1951 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nld-NBG51))
 ## Selee
