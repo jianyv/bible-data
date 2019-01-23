@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 135
+# No Response, 132
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -80,8 +80,6 @@
 1. [RCPV](../../blob/master/bibledata-ceb-rcpv.zip?raw=true), Ang Bag-ong Maayong Balita Biblia (No Response, [Source](http://bibles.org/versions/ceb-RCPV))
 ## Hakha (Chin: Hakha)
 1. [HCL](../../blob/master/bibledata-cnh-hcl.zip?raw=true), Hakha Common Language Bible (No Response, [Source](http://bibles.org/versions/cnh-HCL))
-## Cymraeg (Welsh)
-1. [BCND](../../blob/master/bibledata-cy-bcnd.zip?raw=true), Beibl Cymraeg Newydd Diwygiedig 2004 (No Response, [Source](http://bibles.org/versions/cym-BCND))
 ## Deutsch (German)
 1. [NGUDE](../../blob/master/bibledata-de-ngude.zip?raw=true), Neue Genfer Übersetzung (No Response, [Source](https://www.biblegateway.com/versions/Neue-Genfer-Übersetzung-NGU/))
 1. [SCH2000](../../blob/master/bibledata-de-sch2000.zip?raw=true), Schlachter 2000 (No Response, [Source](https://www.biblegateway.com/versions/Schlachter-2000-SCH2000/))
@@ -98,7 +96,6 @@
 1. [DLNT](../../blob/master/bibledata-en-dlnt.zip?raw=true), Disciples’ Literal New Testament (No Response, [Source](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/))
 1. [EHV](../../blob/master/bibledata-en-ehv.zip?raw=true), Evangelical Heritage Version (No Response, [Source](https://www.biblegateway.com/versions/Evangelical-Heritage-Version-EHV-Bible/))
 1. [ERV](../../blob/master/bibledata-en-erv.zip?raw=true), Easy-to-Read Version (No Response, [Source](https://www.biblegateway.com/versions/Easy-to-Read-Version-ERV-Bible/))
-1. [EXB](../../blob/master/bibledata-en-exb.zip?raw=true), Expanded Bible (No Response, [Source](https://www.biblegateway.com/versions/Expanded-Bible-EXB/))
 1. [GNT](../../blob/master/bibledata-en-gnt.zip?raw=true), Good News Translation (No Response, [Source](https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/))
 1. [GNV](../../blob/master/bibledata-en-gnv.zip?raw=true), 1599 Geneva Bible (No Response, [Source](https://www.biblegateway.com/versions/1599-Geneva-Bible-GNV/))
 1. [GW](../../blob/master/bibledata-en-gw.zip?raw=true), GOD’S WORD Translation (No Response, [Source](https://www.biblegateway.com/versions/GODS-WORD-Translation-GW-Bible/))
@@ -133,8 +130,6 @@
 1. [TLA](../../blob/master/bibledata-es-tla.zip?raw=true), Traducción en Lenguaje Actual (No Response, [Source](https://www.biblegateway.com/versions/Traducci%C3%B3n-en-lenguaje-actual-TLA-Biblia/))
 ## Suomi (Finnish)
 1. [KR92](../../blob/master/bibledata-fi-kr92.zip?raw=true), Kirkkoraamattu 1992 (No Response, [Source](http://bibles.org/versions/fin-FIN92))
-## Fijian
-1. [FNVDC](../../blob/master/bibledata-fj-fnvdc.zip?raw=true), Vakavakadewa Vou kei na iVola tale eso (No Response, [Source](http://bibles.org/versions/fij-FNVDC))
 ## Français (French)
 1. [BDS](../../blob/master/bibledata-fr-bds.zip?raw=true), La Bible du Semeur (No Response, [Source](https://www.biblegateway.com/versions/La-Bible-du-Semeur-BDS/))
 1. [FRC97](../../blob/master/bibledata-fr-frc97.zip?raw=true), La Bible en français courant (No Response, [Source](http://bibles.org/versions/fra-FRC97))
@@ -263,10 +258,13 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 19
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 22
+## Cymraeg (Welsh)
+1. [BCND](../../blob/master/bibledata-cy-bcnd.zip?raw=true), Beibl Cymraeg Newydd Diwygiedig 2004 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/cym-BCND))
 ## English
 1. [CEB](../../blob/master/bibledata-en-ceb.zip?raw=true), Common English Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Common-English-Bible-CEB/))
 1. [ESV](../../blob/master/bibledata-en-esv.zip?raw=true), English Standard Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/))
+1. [EXB](../../blob/master/bibledata-en-exb.zip?raw=true), Expanded Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Expanded-Bible-EXB/))
 1. [ICB](../../blob/master/bibledata-en-icb.zip?raw=true), International Children’s Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/International-Childrens-Bible-ICB/))
 1. [MSG](../../blob/master/bibledata-en-msg.zip?raw=true), The Message ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Message-MSG-Bible/))
 1. [NCV](../../blob/master/bibledata-en-ncv.zip?raw=true), New Century Version ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/New-Century-Version-NCV-Bible/))
@@ -276,6 +274,8 @@
 1. [TLB](../../blob/master/bibledata-en-tlb.zip?raw=true), Living Bible ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Living-Bible-TLB/))
 1. [TPT](../../blob/master/bibledata-en-tpt.zip?raw=true), The Passion Translation ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Passion-Translation-TPT-Bible/))
 1. [VOICE](../../blob/master/bibledata-en-voice.zip?raw=true), The Voice ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/The-Voice-Bible/))
+## Fijian
+1. [FNVDC](../../blob/master/bibledata-fj-fnvdc.zip?raw=true), Vakavakadewa Vou kei na iVola tale eso ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/fij-FNVDC))
 ## Hausa
 1. [HAU](../../blob/master/bibledata-ha-hau.zip?raw=true), Littafi Mai Tsarki ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/hau-HAU))
 ## Italiano (Italian)
