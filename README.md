@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 132
+# No Response, 131
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -208,8 +208,6 @@
 1. [BYSB](../../blob/master/bibledata-rw-bysb.zip?raw=true), Bibiliya Yera (No Response, [Source](http://bibles.org/versions/kin-BYSB))
 ## Slovenčina (Slovak)
 1. [SEB](../../blob/master/bibledata-sk-seb.zip?raw=true), Slovenský Ekumenický Biblia (No Response, [Source](http://bibles.org/versions/slk-SEB))
-## chiShona (Shona)
-1. [SUB1949](../../blob/master/bibledata-sn-sub1949.zip?raw=true), Baiberi Magwaro Matȿene aMŋari 1949 (Doke) (No Response, [Source](http://bibles.org/versions/sna-SUB1949))
 ## SiSwati (Swati)
 1. [SWT](../../blob/master/bibledata-ss-swt.zip?raw=true), Siswati 1996 Bible (Deprecated) (No Response, [Source](http://bibles.org/versions/ssw-SWT))
 ## Sesotho (Southern Sotho)
@@ -258,7 +256,7 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 22
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 23
 ## Cymraeg (Welsh)
 1. [BCND](../../blob/master/bibledata-cy-bcnd.zip?raw=true), Beibl Cymraeg Newydd Diwygiedig 2004 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/cym-BCND))
 ## English
@@ -289,6 +287,8 @@
 1. [ONDB](../../blob/master/bibledata-ng-ondb.zip?raw=true), Ombiimbeli Ondjapuki ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/ndo-ONDB))
 ## Nederlands (Dutch)
 1. [NBG51](../../blob/master/bibledata-nl-nbg51.zip?raw=true), NBG-vertaling 1951 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nld-NBG51))
+## chiShona (Shona)
+1. [SUB1949](../../blob/master/bibledata-sn-sub1949.zip?raw=true), Baiberi Magwaro Matȿene aMŋari 1949 (Doke) ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/sna-SUB1949))
 ## Selee
 1. [SNWNT](../../blob/master/bibledata-snw-snwnt.zip?raw=true), Yaa Kanya Ninii Fɔle Sɛlɛɛ ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://bibles.org/versions/snw-SNWNT))
 # More Translations
