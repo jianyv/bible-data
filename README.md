@@ -59,7 +59,7 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 131
+# No Response, 130
 ## Afrikaans
 1. [ABA](../../blob/master/bibledata-af-aba.zip?raw=true), Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. [AFR53](../../blob/master/bibledata-af-afr53.zip?raw=true), Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
@@ -199,7 +199,6 @@
 1. [BPT09](../../blob/master/bibledata-pt-bpt09.zip?raw=true), a BÍBLIA para todos (No Response, [Source](http://bibles.org/versions/por-BPT09))
 1. [NVIPT](../../blob/master/bibledata-pt-nvipt.zip?raw=true), Nova Versão Internacional (No Response, [Source](https://www.biblegateway.com/versions/Nova-Vers%C3%A3o-Internacional-NVI-PT-B%C3%ADblia/))
 ## Română (Romanian)
-1. [BDC](../../blob/master/bibledata-ro-bdc.zip?raw=true), Biblia sau Sfânta Scriptură cu Trimiteri 1924 (Dumitru Cornilescu), corectată 2016 (Deprecated) (No Response, [Source](http://bibles.org/versions/ron-BDC))
 1. [NTLR](../../blob/master/bibledata-ro-ntlr.zip?raw=true), Nouă Traducere În Limba Română (No Response, [Source](https://www.biblegateway.com/versions/Nou%C4%83-Traducere-%C3%8En-Limba-Rom%C3%A2n%C4%83-NTLR/))
 ## русский язык (Russian)
 1. [NRT](../../blob/master/bibledata-ru-nrt.zip?raw=true), New Russian Translation (No Response, [Source](https://www.biblegateway.com/versions/New-Russian-Translation-NRT-Bible/))
@@ -256,7 +255,7 @@
 1. [ZOMI](../../blob/master/bibledata-zom-zomi.zip?raw=true), LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. [ZUL59](../../blob/master/bibledata-zu-zul59.zip?raw=true), IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 23
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 24
 ## Cymraeg (Welsh)
 1. [BCND](../../blob/master/bibledata-cy-bcnd.zip?raw=true), Beibl Cymraeg Newydd Diwygiedig 2004 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/cym-BCND))
 ## English
@@ -287,6 +286,8 @@
 1. [ONDB](../../blob/master/bibledata-ng-ondb.zip?raw=true), Ombiimbeli Ondjapuki ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/ndo-ONDB))
 ## Nederlands (Dutch)
 1. [NBG51](../../blob/master/bibledata-nl-nbg51.zip?raw=true), NBG-vertaling 1951 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nld-NBG51))
+## Română (Romanian)
+1. [BDC](../../blob/master/bibledata-ro-bdc.zip?raw=true), Biblia sau Sfânta Scriptură cu Trimiteri 1924 (Dumitru Cornilescu), corectată 2016 (Deprecated) ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/ron-BDC))
 ## chiShona (Shona)
 1. [SUB1949](../../blob/master/bibledata-sn-sub1949.zip?raw=true), Baiberi Magwaro Matȿene aMŋari 1949 (Doke) ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/sna-SUB1949))
 ## Selee
