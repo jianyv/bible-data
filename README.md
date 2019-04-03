@@ -1,6 +1,7 @@
-# Public Domain, 19
+# Public Domain, 20
 ## English
 1. [ASV](../../blob/master/bibledata-en-asv.zip?raw=true), American Standard Version (Public Domain, [Source](https://www.biblegateway.com/versions/American-Standard-Version-ASV-Bible/))
+1. [BBE](../../blob/master/bibledata-en-bbe.zip?raw=true), Bible in Basic English (Public Domain, [Source](https://ebible.org/Scriptures/details.php?id=engBBE))
 1. [DARBY](../../blob/master/bibledata-en-darby.zip?raw=true), Darby Translation (Public Domain, [Source](https://www.biblegateway.com/versions/Darby-Translation-Bible/))
 1. [DRA](../../blob/master/bibledata-en-dra.zip?raw=true), Douay-Rheims 1899 American Edition (Public Domain, [Source](https://www.biblegateway.com/versions/Darby-Translation-Bible/))
 1. [KJV](../../blob/master/bibledata-en-kjv.zip?raw=true), King James Version (Public Domain, [Source](https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/))
@@ -29,12 +30,13 @@
 1. [RWV](../../blob/master/bibledata-to-rwv.zip?raw=true), Tongan Bible (Revised West Version) (Public Domain, [Source](https://bibles.org/versions/ton-TONRWV))
 ## Tiếng Việt (Vietnamese)
 1. [VIET](../../blob/master/bibledata-vi-viet.zip?raw=true), 1934 Vietnamese Bible (Public Domain, [Source](https://www.biblegateway.com/versions/1934-Vietnamese-Bible-VIET/))
-# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 19
+# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 20
 ## English
 1. [BRG](../../blob/master/bibledata-en-brg.zip?raw=true), BRG Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/BRG-Bible/))
 1. [LEB](../../blob/master/bibledata-en-leb.zip?raw=true), Lexham English Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Lexham-English-Bible-LEB/))
 1. [NET](../../blob/master/bibledata-en-net.zip?raw=true), New English Translation ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/New-English-Translation-NET-Bible/))
 1. [OJB](../../blob/master/bibledata-en-ojb.zip?raw=true), Orthodox Jewish Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Orthodox-Jewish-Bible-OJB/))
+1. [T4T](../../blob/master/bibledata-en-t4t.zip?raw=true), Translation for Translators ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://ebible.org/Scriptures/details.php?id=eng-t4t))
 1. [WYC](../../blob/master/bibledata-en-wyc.zip?raw=true), Wycliffe Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Wycliffe-Bible-WYC/))
 ## Κοινη (Greek)
 1. [SBLGNT](../../blob/master/bibledata-grc-sblgnt.zip?raw=true), SBL Greek New Testament ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/))
