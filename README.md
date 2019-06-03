@@ -30,7 +30,9 @@
 1. [RWV](../../blob/master/bibledata-to-rwv.zip?raw=true), Tongan Bible (Revised West Version) (Public Domain, [Source](https://bibles.org/versions/ton-TONRWV))
 ## Tiếng Việt (Vietnamese)
 1. [VIET](../../blob/master/bibledata-vi-viet.zip?raw=true), 1934 Vietnamese Bible (Public Domain, [Source](https://www.biblegateway.com/versions/1934-Vietnamese-Bible-VIET/))
-# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 20
+# [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 23
+## Siwu
+1. [AKP](../../blob/master/bibledata-akp-akp.zip?raw=true), Ndamu Ɣɛtɛ Siwu ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=d37a165ef0ea3f20))
 ## English
 1. [BRG](../../blob/master/bibledata-en-brg.zip?raw=true), BRG Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/BRG-Bible/))
 1. [LEB](../../blob/master/bibledata-en-leb.zip?raw=true), Lexham English Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Lexham-English-Bible-LEB/))
@@ -40,12 +42,14 @@
 1. [WYC](../../blob/master/bibledata-en-wyc.zip?raw=true), Wycliffe Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Wycliffe-Bible-WYC/))
 ## Κοινη (Greek)
 1. [SBLGNT](../../blob/master/bibledata-grc-sblgnt.zip?raw=true), SBL Greek New Testament ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/))
+## Mountain Koiali
+1. [KPXNT](../../blob/master/bibledata-kpx-kpxnt.zip?raw=true), Iesu Keliso Hotoe Tumu ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=3a429410aeeeedbb))
 ## മലയാളം (Malayalam)
 1. [MAL](../../blob/master/bibledata-ml-mal.zip?raw=true), മലയാളം ബൈബിള് ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://ebible.org/Scriptures/details.php?id=mal))
 ## Bolinao
-1. [SMKNT](../../blob/master/bibledata-smk-smknt.zip?raw=true), Si Biblia ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://bibles.org/versions/smk-SMKNT))
+1. [SMKNT](../../blob/master/bibledata-smk-smknt.zip?raw=true), Si Biblia ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=2a477198aeee3aae))
 ## Kalenjin (Sabaot)
-1. [SPYNT](../../blob/master/bibledata-spy-spynt.zip?raw=true), Biibilya Nyēē Tiliil ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](http://bibles.org/versions/spy-SPYNT))
+1. [SPYNT](../../blob/master/bibledata-spy-spynt.zip?raw=true), Biibilya Nyēē Tiliil ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=2970d792813aef73))
 ## தமிழ் (Tamil)
 1. [TAM2017](../../blob/master/bibledata-ta-tam2017.zip?raw=true), தமிழ் பைபிள் ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://ebible.org/Scriptures/details.php?id=tam2017))
 ## తెలుగు (Telugu)
@@ -61,13 +65,13 @@
 1. [CSBT](../../blob/master/bibledata-zh-tw-csbt.zip?raw=true), 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. [CU89T](../../blob/master/bibledata-zh-tw-cu89t.zip?raw=true), 新標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89t))
 1. [CUVMPT](../../blob/master/bibledata-zh-tw-cuvmpt.zip?raw=true), 現代標點和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
-# No Response, 130
+## Selee
+1. [SNWNT](../../blob/master/bibledata-snw-snwnt.zip?raw=true), Yaa Kanya Ninii Fɔle Sɛlɛɛ ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=a91fc6613e36390f))
+# No Response, 129
 ## Afrikaans
 1. ABA, Bybel vir almal (No Response, [Source](https://bibles.org/versions/afr-ABA))
 1. AFR53, Afrikaans 1933/1953 (No Response, [Source](http://bibles.org/versions/afr-AFR53))
 1. AFR83, Afrikaans 1983 (No Response, [Source](http://bibles.org/versions/afr-AFR83))
-## Siwu
-1. AKP, Ndamu Ɣɛtɛ Siwu (No Response, [Source](https://bibles.org/versions/akp-AKP))
 ## ﺎﻠﻋﺮﺒﻳﺓ (Arabic)
 1. ALAB, Arabic Life Application Bible (Deprecated by NAV) (No Response, [Source](http://web.archive.org/web/20140801183640/http://www.biblegateway.com/versions/index.php?action=getVersionInfo&vid=28))
 1. AVDDV, New Van Dyck Bible (Reduced Vocalization with Helps) (No Response, [Source](http://bibles.org/versions/arb-AVDDV))
@@ -257,7 +261,7 @@
 1. ZOMI, LAISIENGTHOU (No Response, [Source](http://bibles.org/versions/zom-ZOMI))
 ## isiZulu (Zulu)
 1. ZUL59, IBHAYIBHELI ELINGCWELE (No Response, [Source](http://bibles.org/versions/zul-ZUL59))
-# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 24
+# [Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), 22
 ## Cymraeg (Welsh)
 1. BCND, Beibl Cymraeg Newydd Diwygiedig 2004 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/cym-BCND))
 ## English
@@ -279,8 +283,6 @@
 1. HAU, Littafi Mai Tsarki ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/hau-HAU))
 ## Italiano (Italian)
 1. NR2006, Nuova Riveduta 2006 ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://www.biblegateway.com/versions/Nuova-Riveduta-2006-NR2006/))
-## Mountain Koiali
-1. KPXNT, Iesu Keliso Hotoe Tumu ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/kpx-KPXNT))
 ## Norsk Bokmål (Norwegian Bokmål)
 1. N11BM, Bibelen 2011 bokmål ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nob-N11BM))
 1. N78BM, The Bible in Norwegian 1978/85 bokmål ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/nob-N78BM))
@@ -292,8 +294,6 @@
 1. BDC, Biblia sau Sfânta Scriptură cu Trimiteri 1924 (Dumitru Cornilescu), corectată 2016 (Deprecated) ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/ron-BDC))
 ## chiShona (Shona)
 1. SUB1949, Baiberi Magwaro Matȿene aMŋari 1949 (Doke) ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](http://bibles.org/versions/sna-SUB1949))
-## Selee
-1. SNWNT, Yaa Kanya Ninii Fɔle Sɛlɛɛ ([Refused](https://github.com/dove-bible/permissions/blob/master/REFUSED.md), [Source](https://bibles.org/versions/snw-SNWNT))
 # More Translations
 For more Translations, please find it on following sites, then give me the link:
 - https://www.biblegateway.com/versions/
