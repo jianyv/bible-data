@@ -30,8 +30,6 @@
 ## Tiếng Việt (Vietnamese)
 1. VIET, 1934 Vietnamese Bible (Public Domain, [Source](https://www.biblegateway.com/versions/1934-Vietnamese-Bible-VIET/))
 # [Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), 26
-## Siwu
-1. AKP, Ndamu Ɣɛtɛ Siwu ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=d37a165ef0ea3f20))
 ## English
 1. BRG, BRG Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/BRG-Bible/))
 1. FBV, Free Bible Version ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://ebible.org/Scriptures/details.php?id=engfbv))
@@ -42,6 +40,8 @@
 1. RV1885, Revised Version 1885 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=5b1d01d27b0fa5f9))
 1. T4T, Translation for Translators ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://ebible.org/Scriptures/details.php?id=eng-t4t))
 1. WYC, Wycliffe Bible ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/Wycliffe-Bible-WYC/))
+## Siwu
+1. AKP, Ndamu Ɣɛtɛ Siwu ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://app.thedigitalbiblelibrary.org/entry?id=d37a165ef0ea3f20))
 ## Κοινη (Greek)
 1. SBLGNT, SBL Greek New Testament ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.biblegateway.com/versions/SBL-Greek-New-Testament-SBLGNT/))
 ## Mountain Koiali
@@ -63,7 +63,7 @@
 ## 简体中文 (Simplified Chinese)
 1. CSBS, 中文标准译本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 1. CU89S, 新标点和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cu89s))
-1. CUV, 简体和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](http://www.ccctspm.org))
+1. CUV, 简体和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://github.com/dove-bible/cuv))
 1. CUVMPS, 现代标点和合本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
 ## 繁體中文 (Traditional Chinese)
 1. CSBT, 中文標準譯本 ([Non Commercial](https://github.com/dove-bible/permissions/blob/master/GRANTED.md), [Source](https://www.globalbibleinitiative.org))
