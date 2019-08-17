@@ -1,0 +1,24 @@
+{
+  "languages": {
+    "en": "English",
+    "zh-cn": "简体中文 (Simplified Chinese)"
+  },
+  "versions": [
+    {
+      "code": "update",
+      "copy": "jy",
+      "date": "20190604",
+      "lang": "en",
+      "meta": "Please update Dove Bible. You can visit <a href=\"https://bible.jianyu.io\">https://bible.jianyu.io</a> or Play store <a href=\"https://play.google.com/store/apps/details?id=me.piebridge.bible\">https://play.google.com/store/apps/details?id=me.piebridge.bible</a>.",
+      "name": "Dove Bible (Demo)"
+    },
+    {
+      "code": "更新",
+      "copy": "jy",
+      "date": "20190604",
+      "lang": "zh-cn",
+      "meta": "请更新 如鸽圣经。您可访问 <a href=\"https://bible.jianyu.io\">https://bible.jianyu.io</a> 或 Play 商店 <a href=\"https://play.google.com/store/apps/details?id=me.piebridge.bible\">https://play.google.com/store/apps/details?id=me.piebridge.bible</a>.",
+      "name": "如鸽圣经（演示）"
+    }
+  ]
+}
